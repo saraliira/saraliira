@@ -4,16 +4,7 @@ Oi! Eu sou a Sara Lira, uma pessoa criativa, curiosa e sempre aberta a aprender 
 Gosto de ler e de colocar minha imaginação em prática.
 Sou apaixonada por design, adoro trabalhar em detalhes que fazem cada projeto único. 🎨
 Atualmente, estou cursando Sistemas para Internet na Unicet, onde descobri o quanto a área de TI me desafia e me inspira a crescer.
-
----
-
-## 🎯 Curiosidades sobre mim
-
-- 🎭 Já participei de **peças teatrais**  
-- 🎶 Toquei em **banda escolar**  
-- 💃 Fiz **dança e balé**  
-- 🏆 Ganhei um **campeonato de luta**  
-- 🚲 Ainda **não sei andar de bicicleta** 😂  
+  
 
 ---
 
